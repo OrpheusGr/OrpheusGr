@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OrpheusGr
-- 👀 I’m interested in Python and IRC
+- 👀 I’m interested in Python!
 - 🌱 I’m currently working on a Discord-IRC relay bot
 
 <!---
