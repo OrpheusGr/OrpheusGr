@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OrpheusGr
+- 👋 Hi, I’m Orfeas!
 - 👀 I’m interested in Python!
 - 🌱 I’m currently working on a Discord-IRC relay bot
 
